@@ -1,0 +1,31 @@
+#Apps{
+    text-align: center;
+    background-color: aqua;
+    height: 800px;
+}
+#Games{
+    text-align: center;
+    background-color: blueviolet;
+    height: 600px;
+}
+#Chatbot{
+    text-align: center;
+    background-color: chartreuse;
+    height: 700px;
+}
+.line{
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
+h1{
+    font-size: 40px;
+    font-weight: 300;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
